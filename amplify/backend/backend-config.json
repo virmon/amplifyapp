@@ -24,5 +24,11 @@
         }
       }
     }
+  },
+  "storage": {
+    "firstBucket": {
+      "service": "S3",
+      "providerPlugin": "awscloudformation"
+    }
   }
 }
